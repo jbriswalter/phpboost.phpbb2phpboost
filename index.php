@@ -1,0 +1,1 @@
+<?php header('location: ./phpbb2phpboost.php'); ?>
